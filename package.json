@@ -1,0 +1,22 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyZha/new.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyZha/new/issues"
+  },
+  "homepage": "https://github.com/SergeyZha/new#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
